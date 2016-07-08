@@ -1,0 +1,16 @@
+﻿<%@ Master Language="C#"  AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="WEB.Site1" %>
+
+ <table>
+ <tr>
+    
+ <td><a href="Home.aspx"></a></td>
+ <td></td>
+ <td></td>
+
+ </tr>
+ </table>  
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">   
+         
+        </asp:ContentPlaceHolder>
+
+

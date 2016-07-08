@@ -1,0 +1,6 @@
+C:\web\WEB\WEB\bin\WEB.dll.config
+C:\web\WEB\WEB\bin\WEB.dll
+C:\web\WEB\WEB\bin\WEB.pdb
+C:\web\WEB\WEB\obj\Debug\WEB.csprojResolveAssemblyReference.cache
+C:\web\WEB\WEB\obj\Debug\WEB.dll
+C:\web\WEB\WEB\obj\Debug\WEB.pdb
